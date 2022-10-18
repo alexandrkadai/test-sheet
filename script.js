@@ -1,3 +1,4 @@
+//mockup database
 const googleDatabase = [
   'cats.com',
   'soup-recepies.com',
